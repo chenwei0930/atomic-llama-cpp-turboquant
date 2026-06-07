@@ -1,4 +1,4 @@
-name: Release
+name: Release-win-cuda11.7
 
 on:
   workflow_dispatch:
